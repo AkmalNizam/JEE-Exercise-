@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\akmal\Desktop\JEE\jspCRUD"/>
+			<item value="C:\Users\akmal\Desktop\JSPCrud"/>
+			<item value="C:\Users\akmal\Desktop\Simple_JavaBean_Example\Simple_JavaBean_Example"/>
+			<item value="C:\Users\akmal\Desktop\JEE\EXAMPLE"/>
+			<item value="C:\Users\akmal\Desktop\JEE\DemoServlet"/>
+			<item value="C:\Users\akmal\Desktop\JEE\Echo"/>
+			<item value="C:\Users\akmal\Desktop\JEE\First"/>
+			<item value="C:\Users\akmal\Desktop\JEE\HelloWorld"/>
+			<item value="C:\Users\akmal\Desktop\JEE\HelloWorldJSP"/>
+			<item value="C:\Users\akmal\Desktop\JEE\HelloWorldServlet2"/>
+			<item value="C:\Users\akmal\Desktop\JEE\jsp-servlet-jdbc-mysql-crud-tutorial-master"/>
+			<item value="C:\Users\akmal\Desktop\JEE\CRUD"/>
+			<item value="C:\Users\akmal\Desktop\JEE\Login"/>
+		</list>
+	</section>
+</section>
